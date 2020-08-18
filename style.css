@@ -1,0 +1,99 @@
+body{
+
+    padding:100px;
+}
+
+.submit-area{
+
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+    margin-top:50px;
+    padding:40px;
+}
+
+#transaction{
+
+    display:none;
+    
+
+}
+
+#deposit{
+    background-color: slateblue;
+    margin-left:30px;
+    padding:10px;
+    height:150px;
+    border-radius: 5px;
+    
+}
+
+#withdraw{
+
+    background-color: orange;
+    margin-left:30px;
+    padding:10px;
+    height:150px;
+    border-radius: 5px;
+   
+}
+
+#balance{
+    background-color: tomato;
+    margin-left:30px;
+    padding:10px;
+    height:150px;
+    border-radius: 5px;
+  
+}
+
+#deposit h4 {
+
+    font-size: 40px;
+    padding-left:15px;
+    
+}
+
+#withdraw h4 {
+
+    font-size: 40px;
+    padding-left:15px;
+    
+}
+
+#balance h4 {
+
+    font-size: 40px;
+    padding-left:15px;
+    
+}
+
+.head{
+    padding:10px;
+}
+
+#deposit-input{
+
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px grey;
+    padding:30px;
+    height:200px;
+    margin:10px;
+}
+
+#withdraw-input{
+
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px grey;
+    padding:30px;
+    height:200px;
+    margin:10px;
+}
+
+.form-btn{
+
+    margin-top:20px;
+}
+
+#second{
+    margin-top:50px;
+}
